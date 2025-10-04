@@ -7,7 +7,7 @@ Fullstack Developer
 Interested in building scalable web and mobile applications, with experience in CI/CD, DevOps and Cloud
 
 * 🌍  I'm based in Brussels, Belgium
-* 🖥️  See my portfolio at [m-sakthi.tk](http://m-sakthi.tk/)
+* 🖥️  See my portfolio at [m-sakthi.github.io]([http://m-sakthi.tk/](https://m-sakthi.github.io/))
 * ✉️  You can contact me at [msv300@gmail.com](mailto:msv300@gmail.com)
 * 🧠  I'm learning Three.js and PReact
 
